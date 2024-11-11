@@ -1,0 +1,15 @@
+{
+	"code":0,
+	"msg":"",
+	"count":10,
+	"data":[{
+		"name":"用户管理",
+		"url":"html/user/index.html"
+	},{
+		"name":"场景管理",
+		"url":"html/scene/index.html"
+	},{
+		"name":"场次管理",
+		"url":"html/sessions/index.html"
+	}]
+}

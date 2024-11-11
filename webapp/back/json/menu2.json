@@ -1,0 +1,12 @@
+{
+	"code":0,
+	"msg":"",
+	"count":10,
+	"data":[{
+		"name":"场次管理",
+		"url":"html/sessions/index1.html"
+	},{
+		"name":"门票管理",
+		"url":"html/ticket/index.html"
+	}]
+}

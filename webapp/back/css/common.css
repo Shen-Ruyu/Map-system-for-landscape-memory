@@ -1,0 +1,37 @@
+html,body{
+    --color:rgb(87, 192, 255);
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color:var(--color) ;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.color{
+   color:#fff;  
+}
+
+.my-header .my-header-img{
+    height: 3vw;
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+
+.my-main{
+    width: 100%;
+    padding: 0 2vw;
+}
+
+.nav{
+    margin: 50px 0;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    color:var(--color) !important ;
+}
