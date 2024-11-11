@@ -8,3 +8,6 @@ This system analyzes poetry and local maps from the Ming and Qing dynasties, aim
 This system implemented functional modules such as map services, information search, data editing, and backend management, and used Web GIS to display geographic information of the middle and lower reaches of the Yangtze River. Through this system, users can gain a deeper understanding of the geographical location, natural landscape, historical and cultural information of the middle and lower reaches of the Yangtze River. Secondly, the development of this system can promote the progress of quantitative methods in the study of landscape space of ancient poetry, and enrich the achievements of semantic analysis of landscape of ancient poetry at the watershed scale. Finally, the development of this system will provide strong support for the digital inheritance of cultural heritage and the improvement of national cultural literacy.
 
 ![登陆页面](https://github.com/user-attachments/assets/2a696cd4-59e4-4b14-baa0-557c48cf856b)
+
+![长江三十六景展示](https://github.com/user-attachments/assets/df253bb1-d636-47cf-b6e1-2555ba74583f)
+
